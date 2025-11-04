@@ -1,7 +1,7 @@
 # Fashion-MNIST Dataset Analysis and Classification
 
 ## Introduction
-I machine learning techniques to a fashion-oriented classification task using the [Fashion-MNIST dataset](https://paperswithcode.com/dataset/fashion-mnist) from Papers With Code. This dataset contains 70,000 grayscale images of 28×28 pixels across 10 categories, with 7,000 images per category. The dataset is split into a training set of 60,000 images and a test set of 10,000 images.  
+I applied machine learning techniques to a fashion-oriented classification task using the [Fashion-MNIST dataset](https://paperswithcode.com/dataset/fashion-mnist) from Papers With Code. This dataset contains 70,000 grayscale images of 28×28 pixels across 10 categories, with 7,000 images per category. The dataset is split into a training set of 60,000 images and a test set of 10,000 images.  
 
 The goal of this project is to accurately classify these clothing images using various supervised learning models, including logistic regression, neural networks, and convolutional neural networks (CNNs).  
 
